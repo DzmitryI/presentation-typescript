@@ -1,1 +1,1 @@
-[https://github.com/DzmitryI/presentation-typescript/presentation](https://github.com/DzmitryI/presentation-typescript/)
+[https://DzmitryI.github.io/presentation-typescript/presentation](https://DzmitryI.github.io/presentation-typescript/)
